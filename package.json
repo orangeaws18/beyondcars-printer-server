@@ -6,6 +6,7 @@
   "author": "chris.kuo <chris.kuo@beyondcars.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
   }
 }
