@@ -1,0 +1,11 @@
+{
+  "name": "beyondcars-printer-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:orangeaws18/beyondcars-printer-server.git",
+  "author": "chris.kuo <chris.kuo@beyondcars.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
